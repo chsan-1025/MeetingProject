@@ -1,0 +1,14 @@
+.card-title{
+    margin-bottom: 0px !important;
+    font-weight: bold;
+}
+.select2 > .selection > .select2-selection{
+    height: 38px!important;
+}
+.select2 > .selection > .select2-selection > .select2-selection__rendered{
+    position: relative;
+    left: -10px;
+}
+.select2 > .selection > .select2-selection > .select2-selection__arrow{
+    margin-top: 5px;
+}
